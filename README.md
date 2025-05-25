@@ -2,6 +2,8 @@
 
 hydra challenge http://35.247.148.83:10006/
 
-Hint : Combo-wombo 
-       Agent Z
-       avaya : 'we wont rock anymore'
+Hint : 
+
+1. Combo-wombo
+2. Agent Z
+3. avaya : 'we wont rock anymore'
